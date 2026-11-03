@@ -1,0 +1,8 @@
+name: goodpractices_final
+dependencies:
+  - python=3.13
+  - numpy
+  - pytest
+  - coverage
+  - ruff
+  - mypy

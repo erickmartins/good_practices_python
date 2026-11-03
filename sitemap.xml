@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://erickmartins.github.io/good_practices_python/docstrings.html</loc>
+    <lastmod>2026-11-03T12:43:13.618Z</lastmod>
+  </url>
+  <url>
+    <loc>https://erickmartins.github.io/good_practices_python/typing.html</loc>
+    <lastmod>2026-11-03T12:43:13.619Z</lastmod>
+  </url>
+  <url>
+    <loc>https://erickmartins.github.io/good_practices_python/pytest.html</loc>
+    <lastmod>2026-11-03T12:43:13.619Z</lastmod>
+  </url>
+  <url>
+    <loc>https://erickmartins.github.io/good_practices_python/conda.html</loc>
+    <lastmod>2026-11-03T12:43:13.618Z</lastmod>
+  </url>
+  <url>
+    <loc>https://erickmartins.github.io/good_practices_python/git.html</loc>
+    <lastmod>2026-11-03T12:43:13.618Z</lastmod>
+  </url>
+  <url>
+    <loc>https://erickmartins.github.io/good_practices_python/index.html</loc>
+    <lastmod>2026-11-03T12:43:13.618Z</lastmod>
+  </url>
+</urlset>

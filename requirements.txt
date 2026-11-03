@@ -1,5 +1,0 @@
-numpy
-pytest
-coverage
-ruff
-mypy
